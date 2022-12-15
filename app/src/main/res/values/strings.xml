@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Approximate History</string>
+    <string name="task_approximate_history">Введите год, в который произошло указанное событие</string>
+    <string name="hint_approximate_history">Введите ответ</string>
+    <string name="answer_approximate_history">Ответить</string>
+    <string name="result_approximate_history">Вы ошиблись на %d </string>
+    <string name="right_approximate_history">Всё верно!</string>
+    <string name="result_right_answer_approximate_history">\nВерный ответ: %d г.</string>
+    <string name="exit_approximate_history">Выйти</string>
+    <string name="next_approximate_history">Дальше</string>
+    <string name="spaces_approximate_history">\n\n</string>
+    <string name="year_approximate_history"> год.</string>
+    <string name="years_approximate_history"> года.</string>
+    <string name="years1_approximate_history"> лет.</string>
+</resources>
